@@ -1,5 +1,5 @@
 *terraform.tfvars
 *.terraform
-*.tfstate
+*.tfstate*
 *public
 *.terraform.lock.hcl
